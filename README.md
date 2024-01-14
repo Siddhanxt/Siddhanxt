@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhant Sangole</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"> -->
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ejxegdnvrpgbp6nhu3ksltt3tdrdpwrc9gmqgjhm&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhanxt&label=Profile%20views&color=0e75b6&style=flat" alt="siddhanxt" /> </p>

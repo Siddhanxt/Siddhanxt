@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://portfoliosiddhanxt.netlify.app](https://portfoliosiddhanxt.netlify.app)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/siddhant-sangole-47260923a](https://www.linkedin.com/in/siddhant-sangole-47260923a)
 
 - 💬 Ask me about **HTML,CSS,JS**
 

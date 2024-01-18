@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Siddhant Sangole</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ejxegdnvrpgbp6nhu3ksltt3tdrdpwrc9gmqgjhm&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 
-
-
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxzZXhwZHgzMzAweWx2a3FpYmVmb3JkcGZxamk2MmRpZHBwOHB1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhanxt&label=Profile%20views&color=0e75b6&style=flat" alt="siddhanxt" /> </p>
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/siddhant-sangole-47260923a](https://www.linkedin.com/in/siddhant-sangole-47260923a)
+- 👨‍💻 All of my projects are available at [https://portfoliosiddhanxt.netlify.app](https://portfoliosiddhanxt.netlify.app)
 
 - 💬 Ask me about **HTML,CSS,JS**
 

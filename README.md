@@ -1,3 +1,4 @@
+![logo](https://github.com/Siddhanxt/Siddhanxt/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm Siddhant Sangole</h1>
 <h3 align="center">A passionate frontend developer</h3>
 

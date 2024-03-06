@@ -24,23 +24,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<br/>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Siddhanxt&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Siddhanxt&theme=transparent&type=png&mode=daily&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhanxt&show_icons=true&theme=transparent&layout=donut" />
+</a>
 
-## 📊 GitHub Stats
-
-<p align="left">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Siddhanxt&theme=radical&card_width=495&type=png&hide_border=true&mode=daily&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhanxt&theme=radical&show_icons=true&hide_border=true)
-
-[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhanxt&theme=radical&hide_border=true&layout=compact)](https://github.com/Siddhanxt/github-readme-stats)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=Siddhanxt&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
-</p>
-
-## ⭐ Thanks for the visit!
+<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Siddhanxt&theme=radical)](https://github.com/Siddhanxt)
 <br />

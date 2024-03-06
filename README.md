@@ -29,9 +29,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Siddhanxt&show_icons=true&theme=transparent" />
 </a>
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Siddhanxt&theme=transparent&type=png&mode=daily&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhanxt&show_icons=true&theme=transparent&layout=donut" />
 </a>

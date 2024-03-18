@@ -43,7 +43,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Siddhanxt&theme=radical)](https://github.com/Siddhanxt)
 <br />
 <br />
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Siddhanxt&icon=0&color=0)](https://visitcount.itsvg.in)
 <br />
 <br />
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
